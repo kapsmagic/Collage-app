@@ -1,0 +1,42 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+
+#textbox
+{
+    width: 300px;
+}
+
+img
+{
+  border-radius: 10px;
+  margin: 10px;
+}
+
+body
+{
+    background-image: url("backgr.png");
+    background-size: cover;
+}
+
+.me
+{
+    font-family: monospace;
+    color:coral;
+    margin-bottom: 10pt;
+    margin-top: 10pt;
+}
+.copy_right_footer
+{
+    bottom:0;
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
